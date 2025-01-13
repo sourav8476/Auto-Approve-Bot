@@ -9,7 +9,7 @@ LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002392980176"))
 ADMINS = int(environ.get("ADMINS", "5408428203"))
 
 # Warning - Give Db uri in deploy server environment variable, don't give in repo.
-DB_URI = environ.get("DB_URI", "")
+DB_URI = environ.get("DB_URI", "mongodb+srv://barmanhailey:sSn6R9iYbtBEXtaw@cluster0.uricj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = environ.get("DB_NAME", "autoacceptbot")
 
 # If this is True Then Bot Accept New Join Request 
