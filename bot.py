@@ -1,5 +1,4 @@
 from pyrogram import Client
-from pyromod import listen
 from aiohttp import web
 from config import API_ID, API_HASH, BOT_TOKEN
 
