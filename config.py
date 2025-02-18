@@ -4,7 +4,7 @@ API_ID = int(environ.get("API_ID", "20679071"))
 API_HASH = environ.get("API_HASH", "3d088893c7ff5b84c429eadf6df88ab4")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "0"))
+AUTH_CHANNEL = int(environ.get("AUTH_CHANNEL", "-1002158160174"))
 LOG_CHANNEL = int(environ.get("LOG_CHANNEL", "-1002392980176"))
 ADMINS = int(environ.get("ADMINS", "5408428203"))
 
