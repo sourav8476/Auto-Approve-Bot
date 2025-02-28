@@ -81,7 +81,7 @@ async def start_message(c, m):
             [[
                 InlineKeyboardButton("⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ⇆", url=f"https://telegram.me/autoapprovesrobot?startgroup=true&admin=invite_users"),
             ],[
-                InlineKeyboardButton("• 🔞ᴀᴅᴜʟᴛ ᴄʜᴀɴɴᴇʟ •", url="https://telegram.me/javchindoadultvideo"),
+                InlineKeyboardButton("• 🤖𝐁𝐎𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 •", url="https://telegram.me/Luxebotupdate"),
                 InlineKeyboardButton("• 📽ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ •", url="https://telegram.me/movierequestgroupHQ")
             ],[
                 InlineKeyboardButton("⇆ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ⇆", url=f"https://telegram.me/autoapprovesrobot?startchannel=true&admin=invite_users")
